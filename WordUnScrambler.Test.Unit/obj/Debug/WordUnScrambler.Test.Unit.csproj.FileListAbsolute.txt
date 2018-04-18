@@ -1,0 +1,16 @@
+C:\Users\Ray\Documents\WordScrambler\WordScrambler\WordUnScrambler.Test.Unit\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Ray\Documents\WordScrambler\WordScrambler\WordUnScrambler.Test.Unit\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Ray\Documents\WordScrambler\WordScrambler\WordUnScrambler.Test.Unit\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Ray\Documents\WordScrambler\WordScrambler\WordUnScrambler.Test.Unit\bin\Debug\WordUnScrambler.Test.Unit.dll
+C:\Users\Ray\Documents\WordScrambler\WordScrambler\WordUnScrambler.Test.Unit\bin\Debug\WordUnScrambler.Test.Unit.pdb
+C:\Users\Ray\Documents\WordScrambler\WordScrambler\WordUnScrambler.Test.Unit\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Ray\Documents\WordScrambler\WordScrambler\WordUnScrambler.Test.Unit\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Ray\Documents\WordScrambler\WordScrambler\WordUnScrambler.Test.Unit\bin\Debug\WordScrambler.exe
+C:\Users\Ray\Documents\WordScrambler\WordScrambler\WordUnScrambler.Test.Unit\bin\Debug\WordScrambler.pdb
+C:\Users\Ray\Documents\WordScrambler\WordScrambler\WordUnScrambler.Test.Unit\bin\Debug\WordScrambler.exe.config
+C:\Users\Ray\Documents\WordScrambler\WordScrambler\WordUnScrambler.Test.Unit\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Ray\Documents\WordScrambler\WordScrambler\WordUnScrambler.Test.Unit\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Ray\Documents\WordScrambler\WordScrambler\WordUnScrambler.Test.Unit\obj\Debug\WordUnScrambler.Test.Unit.csprojResolveAssemblyReference.cache
+C:\Users\Ray\Documents\WordScrambler\WordScrambler\WordUnScrambler.Test.Unit\obj\Debug\WordUnScrambler.Test.Unit.csproj.CoreCompileInputs.cache
+C:\Users\Ray\Documents\WordScrambler\WordScrambler\WordUnScrambler.Test.Unit\obj\Debug\WordUnScrambler.Test.Unit.dll
+C:\Users\Ray\Documents\WordScrambler\WordScrambler\WordUnScrambler.Test.Unit\obj\Debug\WordUnScrambler.Test.Unit.pdb
