@@ -1,0 +1,7 @@
+C:\Users\Ray\Documents\WordScrambler\WordScrambler\WordScrambler\bin\Debug\WordScrambler.exe.config
+C:\Users\Ray\Documents\WordScrambler\WordScrambler\WordScrambler\bin\Debug\WordScrambler.exe
+C:\Users\Ray\Documents\WordScrambler\WordScrambler\WordScrambler\bin\Debug\WordScrambler.pdb
+C:\Users\Ray\Documents\WordScrambler\WordScrambler\WordScrambler\obj\Debug\WordScrambler.csprojResolveAssemblyReference.cache
+C:\Users\Ray\Documents\WordScrambler\WordScrambler\WordScrambler\obj\Debug\WordScrambler.csproj.CoreCompileInputs.cache
+C:\Users\Ray\Documents\WordScrambler\WordScrambler\WordScrambler\obj\Debug\WordScrambler.exe
+C:\Users\Ray\Documents\WordScrambler\WordScrambler\WordScrambler\obj\Debug\WordScrambler.pdb
